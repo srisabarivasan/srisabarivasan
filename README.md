@@ -202,26 +202,10 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srisabarivasan&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=srisabarivasan&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/srisabarivasan/srisabarivasan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 ---
