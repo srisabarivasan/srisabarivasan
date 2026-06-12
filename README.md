@@ -217,4 +217,9 @@ Learning:
   - "Advanced Data Science"
 Building:
   - "Full Stack Web Page for Restaurant"
+```
 
+---
+
+## ⚡ Fun Fact 
+  *"Small disciplines repeated with consistency every day lead to great achievement gained slowly over time."*
