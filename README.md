@@ -32,27 +32,27 @@ An enterprise-focused Senior Software Engineer and AI/ML Architect with a produc
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" alt="Languages" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+  <img src="https://skillicons.dev/icons?i=python,java" style="vertical-align: middle; height: 48px;" alt="Languages" />
+  <img src="https://img.shields.io/badge/-SQL-316192?style=for-the-badge&logo=mysql&logoColor=white" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="SQL" />
+  <img src="https://img.shields.io/badge/-PL%20SQL-E41F26?style=for-the-badge&logo=oracle&logoColor=white" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="PL/SQL" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" style="height: 48px;" alt="Frontend" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="Backend and DB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" style="height: 48px;" alt="Backend and DB" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,github" alt="Cloud and DevOps" />
-  <img src="https://img.shields.io/badge/Informatica_IICS-FF4B00?style=for-the-badge&logo=informatica&logoColor=white" alt="Informatica" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://skillicons.dev/icons?i=aws,github" style="vertical-align: middle; height: 48px;" alt="Cloud and DevOps" />
+  <img src="https://img.shields.io/badge/-Informatica-FF4B00?style=for-the-badge&logo=informatica&logoColor=white" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Informatica" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Excel" />
 </p>
 
 ---
