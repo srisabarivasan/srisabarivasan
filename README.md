@@ -127,14 +127,7 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 * Directed a cross-functional engineering team of 8 to deliver an ML-driven anomaly detection firewall, blocking over 2M malicious packets daily.
 * Spearheaded infrastructure migration to Kubernetes, decreasing cloud infrastructure spend by \$120k annually through aggressive resource packing.
 * `Go` `gRPC` `Kubernetes` `AWS` `Python` `Terraform`
-
-### **Software Engineer II** — *Apex Global Tech*
-`Jun 2021 - Dec 2023`
-* Engineered responsive client dashboards using Next.js and Redux Toolkit, enhancing Core Web Vitals score by 25%.
-* Optimized PostgreSQL query paths and indexing strategies, eliminating structural deadlocks and decreasing API endpoint P95 latency by 180ms.
-* Built automated CI/CD deployment matrices via GitHub Actions, decreasing production release failure cycles down to < 1%.
-* `Next.js` `TypeScript` `PostgreSQL` `Node.js` `Redis` `GitHub Actions`
-
+  
 ---
 
 ## 🏆 Achievements
