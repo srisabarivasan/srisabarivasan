@@ -1,28 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,34&height=250&section=header&text=ALEXANDER%20VANE&fontSize=65&fontColor=8A2BE2&animation=twinkling&theme=dark" width="100%" alt="Capsule Render Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;AI+%2F+ML+Infrastructure+Architect;Full+Stack+Product+Engineer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/alexandervane"><img src="https://img.shields.io/badge/Degree-M.S.+Computer+Science-4B0082?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge"></a>
-  <a href="https://github.com/alexandervane"><img src="https://img.shields.io/badge/Location-San+Francisco%2C+CA-4B0082?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge"></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alexandervane"><img src="https://img.shields.io/badge/Portfolio-Premium+Site-6A0D91?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/alexandervane"><img src="https://img.shields.io/badge/LinkedIn-Connect-6A0D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alexander.vane@domain.com"><img src="https://img.shields.io/badge/Email-Contact-6A0D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/alexandervane"><img src="https://img.shields.io/badge/GitHub-Follow-6A0D91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexandervane&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/alexandervane?label=Followers&style=flat-square&color=8A2BE2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/alexandervane?label=Stars&style=flat-square&color=8A2BE2" alt="Stars" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,34&height=250&section=header&text=SRISABARIVASAN%20P%20L&fontSize=55&fontColor=8A2BE2&animation=twinkling&theme=dark" width="100%" alt="Capsule Render Banner" /></p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=9400D3&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;AI+%2F+ML+Infrastructure+Architect;Full+Stack+Product+Engineer" alt="Typing SVG" /></p><p align="center">
+  <a href="https://github.com/srisabarivasan"><img src="https://img.shields.io/badge/Degree-B.Tech+Artificial+Intelligence+and+Data+Science-4B0082?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge"></a>
+  <a href="https://github.com/srisabarivasan"><img src="https://img.shields.io/badge/Location-Tiruchirappalli%2C+Tamil+Nadu-4B0082?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge"></a></p><p align="center">
+  <a href="https://github.com/srisabarivasan"><img src="https://img.shields.io/badge/Portfolio-Premium+Site-6A0D91?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/srisabarivasan"><img src="https://img.shields.io/badge/LinkedIn-Connect-6A0D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:plsrisabarivasan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6A0D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/srisabarivasan"><img src="https://img.shields.io/badge/GitHub-Follow-6A0D91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srisabarivasan&color=8A2BE2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/srisabarivasan?label=Followers&style=flat-square&color=8A2BE2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/srisabarivasan?label=Stars&style=flat-square&color=8A2BE2" alt="Stars" /></p>
 ---
 
 ## 🪐 About Me
@@ -33,6 +20,11 @@ An enterprise-focused Senior Software Engineer and AI/ML Architect with a produc
 * **AI/ML Expertise:** Large Language Model (LLM) fine-tuning, retrieval-augmented generation (RAG) pipelines, and MLOps infrastructure.
 * **Full Stack Development:** Crafting pixel-perfect, highly responsive interfaces backed by resilient, ultra-low latency data layers.
 * **Product Engineering:** Transforming abstract business requirements into scalable, reliable technical implementations.
+
++--------------------------------------------------------------------------+
+| [Open To]  Full-Time Roles | Staff Consulting | Open Source Core Dev      |
++--------------------------------------------------------------------------+
+
 
 ---
 
@@ -88,7 +80,7 @@ A distributed, high-throughput analytics engine designed to process millions of 
 | **Performance** | P99 latency < 4ms, 45% compute optimization over baseline |
 | **Security** | TLS 1.3 mutual authentication, AES-256 at rest, strict RBAC |
 | **Impact** | Improved business intelligence reporting speeds by 140% |
-| **Repository** | [github.com/alexandervane/nexus-engine](https://github.com/alexandervane) |
+| **Repository** | [github.com/srisabarivasan](https://github.com/srisabarivasan) |
 
 ### Engineering Overview
 NexusEngine leverages a zero-allocation parsing pipeline written in Go, acting as a highly optimized ingress consumer for Apache Kafka. Data partitioning is managed dynamically based on traffic payload characteristics. Timeseries storage aggregation is handled downstream via optimized TimescaleDB hyper-tables, while Redis Enterprise acts as an transient cache layer for hot analytics metrics.
@@ -111,7 +103,7 @@ An enterprise-grade RAG platform providing context-aware AI synthesis across het
 | **Performance** | Query-to-generation latency under 1.2s, 94% retrieval accuracy |
 | **Security** | Document-level ACLs, isolated tenant contexts, PII masking |
 | **Impact** | Reduced internal compliance discovery time frames by 80% |
-| **Repository** | [github.com/alexandervane/synapsenet](https://github.com/alexandervane) |
+| **Repository** | [github.com/srisabarivasan](https://github.com/srisabarivasan) |
 
 ### Engineering Overview
 SynapseNet decouples ingestion, embedding, and inference. Documents are parsed asynchronously using OCR pipelines before chunks are vectorized via custom fine-tuned bi-encoders. Pinecone indexes are partitioned dynamically based on user security clearances, ensuring isolated context generation. The interface leverages Next.js streaming API responses for a premium, low-perceived-latency UI experience.
@@ -196,7 +188,7 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/alexandervane"><img src="https://img.shields.io/badge/LeetCode-Guardian_Style-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://leetcode.com/srisabarivasan"><img src="https://img.shields.io/badge/LeetCode-Guardian_Style-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Elite_Rank-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
   <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-6_Star-1BA024?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
   <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5_Star-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
@@ -207,12 +199,12 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexandervane&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandervane&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srisabarivasan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisabarivasan&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srisabarivasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages" />
 </p>
 
 ---
@@ -220,7 +212,7 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandervane&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=srisabarivasan&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" width="100%" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -228,7 +220,7 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexandervane&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srisabarivasan&theme=tokyonight&bg_color=0D1117&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -236,7 +228,7 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexandervane/alexandervane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/srisabarivasan/srisabarivasan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 ---
