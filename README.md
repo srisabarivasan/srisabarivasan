@@ -51,7 +51,7 @@ An enterprise-focused Senior Software Engineer and AI/ML Architect with a produc
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,github" style="vertical-align: middle; height: 48px;" alt="Cloud and DevOps" />
   <img src="https://img.icons8.com/color/48/informatica.png" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" alt="Informatica" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Power BI" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/>
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2025.png" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" alt="Excel" />
 </p>
 
