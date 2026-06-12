@@ -33,8 +33,8 @@ An enterprise-focused Senior Software Engineer and AI/ML Architect with a produc
 ### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java" style="vertical-align: middle; height: 48px;" alt="Languages" />
-  <img src="https://img.shields.io/badge/-SQL-316192?style=for-the-badge&logo=mysql&logoColor=white" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="SQL" />
-  <img src="https://img.shields.io/badge/-PL%20SQL-E41F26?style=for-the-badge&logo=oracle&logoColor=white" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="PL/SQL" />
+  <img src="https://img.icons8.com/fluency/48/sql.png" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" alt="SQL" />
+  <img src="https://img.icons8.com/fluency/48/oracle.png" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" alt="PL/SQL" />
 </p>
 
 ### Frontend
@@ -50,9 +50,9 @@ An enterprise-focused Senior Software Engineer and AI/ML Architect with a produc
 ### Cloud, DevOps & Tooling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,github" style="vertical-align: middle; height: 48px;" alt="Cloud and DevOps" />
-  <img src="https://img.shields.io/badge/-Informatica-FF4B00?style=for-the-badge&logo=informatica&logoColor=white" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Informatica" />
+  <img src="https://img.icons8.com/color/48/informatica.png" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" alt="Informatica" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Power BI" />
-  <img src="https://img.shields.io/badge/-Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" style="height: 48px; border-radius: 10px; vertical-align: middle; margin-left: 4px;" alt="Excel" />
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2025.png" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" alt="Excel" />
 </p>
 
 ---
