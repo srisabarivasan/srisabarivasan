@@ -236,13 +236,9 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 ## 🎯 Current Focus
 
 ```yaml
-learning:
-  - "Distributed Consensus Protocols (Raft, Paxos)"
-  - "Advanced CUDA programming for Tensor acceleration"
-building:
-  - "Next-gen reactive gateway mesh layer"
-explorations:
-  - "Quantum computing algorithms for optimization paradigms"
-openTo:
-  - "Technical steering committees"
-  - "High-impact architectural system redesigns"
+Learning:
+  - "Informatica IICS"
+  - "Advanced Data Science"
+Building:
+  - "Full Stack Web Page for Restaurant"
+
