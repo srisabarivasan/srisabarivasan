@@ -34,7 +34,6 @@ An enterprise-focused Senior Software Engineer and AI/ML Architect with a produc
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java" style="vertical-align: middle; height: 48px;" alt="Languages" />
   <img src="https://img.icons8.com/fluency/48/sql.png" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" alt="SQL" />
-  <img src="https://img.icons8.com/fluency/48/oracle.png" width="48" height="48" style="vertical-align: middle; margin-left: 4px;" alt="PL/SQL" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle PL/SQL"/>
 </p>
 
