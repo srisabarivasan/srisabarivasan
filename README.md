@@ -32,22 +32,27 @@ An enterprise-focused Senior Software Engineer and AI/ML Architect with a produc
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,go,rust" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Languages" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PL_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis" alt="Backend and DB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Backend and DB" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,linux" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,github" alt="Cloud and DevOps" />
+  <img src="https://img.shields.io/badge/Informatica_IICS-FF4B00?style=for-the-badge&logo=informatica&logoColor=white" alt="Informatica" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 ---
@@ -164,23 +169,17 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 
 ### AWS
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Solutions+Architect+Professional-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS SAP">
-  <img src="https://img.shields.io/badge/AWS-Machine+Learning+Specialty-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS MLS">
+  <img src="https://img.shields.io/badge/AWS-Certified+Cloud+Practitioner+(CLF--C02)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner">
 </p>
 
-### Oracle
+### IIT / NPTEL
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Java+SE+11+Developer-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Java">
+  <img src="https://img.shields.io/badge/NPTEL-Cloud+Computing+(Elite+Silver)-003366?style=flat-square&logo=education&logoColor=white" alt="NPTEL Cloud Computing Elite Silver">
 </p>
 
-### NPTEL
+### GUVI
 <p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Cloud+Computing+Elite+Gold-003366?style=flat-square&logo=education&logoColor=white" alt="NPTEL Cloud">
-</p>
-
-### Cisco
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1Y233D?style=flat-square&logo=cisco&logoColor=white" alt="CCNA">
+  <img src="https://img.shields.io/badge/GUVI-IICS+with+Oracle+PL%2FSQL+%26+Power+BI-298D46?style=flat-square&logo=gitbook&logoColor=white" alt="GUVI IICS PL/SQL Power BI">
 </p>
 
 ---
@@ -188,10 +187,10 @@ SynapseNet decouples ingestion, embedding, and inference. Documents are parsed a
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/srisabarivasan"><img src="https://img.shields.io/badge/LeetCode-Guardian_Style-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Elite_Rank-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-6_Star-1BA024?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-5_Star-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://leetcode.com/u/srisabarivasan/"><img src="https://img.shields.io/badge/LeetCode-Guardian_Style-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.geeksforgeeks.org/profile/srisabarivasan"><img src="https://img.shields.io/badge/GeeksforGeeks-Elite_Rank-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+  <a href="https://www.hackerrank.com/profile/plsrisabarivasan"><img src="https://img.shields.io/badge/HackerRank-6_Star-1BA024?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://www.codechef.com/users/srisabarivasan"><img src="https://img.shields.io/badge/CodeChef-5_Star-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
 </p>
 
 ---
